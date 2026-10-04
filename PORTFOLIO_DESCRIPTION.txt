@@ -1,0 +1,16 @@
+VIRTUAL PATIENT SIMULATOR — PORTFOLIO DESCRIPTION
+
+One-line:
+Built an interactive virtual-patient simulator in Python and Streamlit for medical-student clinical reasoning practice.
+
+CV bullet:
+Developed a Python/Streamlit virtual-patient simulator with 32 synthetic clinical cases, multimodal clinical visuals, interactive history taking, focused examination, investigation selection, differential diagnosis, treatment planning and structured scoring.
+
+LinkedIn / portfolio:
+I built an interactive virtual-patient simulator designed for medical students to practise clinical reasoning in a more active way. The app guides users through the full consultation pathway — history, examination, investigations, differential diagnosis, final diagnosis and management — with case-specific visuals and structured feedback. It currently includes 32 synthetic clinical cases and multiple difficulty modes.
+
+Suggested project title:
+Virtual Patient Simulator for Clinical Reasoning
+
+Suggested skills:
+Python, Streamlit, Clinical Reasoning, Medical Education, UX/UI Design, Data Structuring, Educational Technology

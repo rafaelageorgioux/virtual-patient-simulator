@@ -1,0 +1,25 @@
+GITHUB QUICK START
+
+1. Create a new empty repository on GitHub.
+   Suggested name:
+   virtual-patient-simulator
+
+2. On your Mac, open Terminal and go to this folder.
+
+3. Run:
+
+   git init
+   git add .
+   git commit -m "Initial release of virtual patient simulator"
+
+4. Connect your GitHub repository:
+
+   git branch -M main
+   git remote add origin YOUR_GITHUB_REPOSITORY_URL
+   git push -u origin main
+
+5. For Streamlit Community Cloud:
+   - connect GitHub
+   - choose this repository
+   - set main file to: 32cases.py
+   - deploy
